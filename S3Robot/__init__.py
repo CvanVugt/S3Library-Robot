@@ -1,5 +1,5 @@
 '''
-@author: Coen van Vugt & Tinie Sluijter
+@author: Coen van Vugt
 
 Copyright 2018
 '''
